@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=typst-gtk
+Exec=typst-gtk
+Icon=com.rutins.Typst
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

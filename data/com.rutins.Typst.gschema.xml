@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="typst-gtk">
+	<schema id="com.rutins.Typst" path="/com/rutins/Typst/">
+	</schema>
+</schemalist>

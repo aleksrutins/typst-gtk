@@ -1,0 +1,4 @@
+data/com.rutins.Typst.desktop.in
+data/com.rutins.Typst.appdata.xml.in
+data/com.rutins.Typst.gschema.xml
+src/window.ui
